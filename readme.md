@@ -9,7 +9,7 @@
 ## Installation
 Öncelikle projeyi clonelayın.
 ```bash
-git clone https://......git
+git clone https://github.com/mehmetziyaturan/kodluyoruz-front-end.git
 ```
 
 ## Usage

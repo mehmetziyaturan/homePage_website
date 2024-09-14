@@ -1,6 +1,6 @@
-# kodluyoruz html Odev 3
+# Anasayfa
 
-[Patika.dev](https://www.patika.dev) Html eğitiminde 3.ödev. Bölüm sonu çalışması.
+Bölüm sonu çalışması.
 
 ![proje resmi1](img/png1.PNG)
 ![proje resmi2](img/png2.PNG)
